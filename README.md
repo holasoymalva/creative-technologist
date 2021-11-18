@@ -6,6 +6,10 @@ Demos and practices of Tecnology, ART and Design
 #### Courses
 [A Practical Guide to Essential Creative Technologies](https://www.futurelearn.com/courses/collections/creative-technologies)
 
+#### Tutorials
+
+[Tips & Tutorials by Glitch](https://blog.glitch.com/category/starter-kits)
+
 #### Articles
 [How to become a creative technologist](https://www.bbc.co.uk/bitesize/articles/zvfq8xs)
 
