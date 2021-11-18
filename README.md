@@ -19,7 +19,28 @@ Demos and practices of Tecnology, ART and Design
 
 [Developer advocacy as a career path](https://www.devocate.com/developer-advocacy-as-a-career-path/)
 
-
 #### Youtube
+
+[Artist, Creative Technologist and Researcher](https://youtu.be/1R2RecEaNEs)
+
+[So, you have decided to become a Creative Technologist..!](https://youtu.be/n1Z5c4Bv8Hw)
+
+[Google Creative Lab - Interview](https://youtu.be/fUML-RwHRuY)
+
+[Creative Coding = unexplored territories](https://youtu.be/JW7oAbLVNJE)
+
+[How To Create an Interactive Video](https://youtu.be/w3VA7nCg9rI)
+
+[Business for Creative Technologists](https://youtu.be/aUNgjfaUkBM)
+
+[Creative Technologist, Web Evangelist, Developer Advocate](https://youtu.be/avyK2MZXnXM)
+
+[Navid Gornall - Creative Technologist](https://youtu.be/FMBikBa99Ao)
+
+[Artistic installations powered by data](https://youtu.be/uDGTMQH8Haw)
+
+[So you want to be a Developer Advocate?](https://youtu.be/JtVn0sitWuk)
+
+
 
 [Youtube List](https://www.youtube.com/results?search_query=creative+technologist)
