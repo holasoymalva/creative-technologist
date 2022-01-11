@@ -15,6 +15,13 @@
   * [ ] [Cómo CREAR un NFT (gratis) y ponerlo a la VENTA con REGALÍAS de por vida](https://youtu.be/HDQzPohVEj4)
   * [ ] [Cómo hacer un NFT en 10 minutos ¡Tutorial fácil!](https://youtu.be/8X6mj8-mk34)
   * [ ] [He Invertido $50.000 en NFT's (os lo explico)](https://youtu.be/sAdfmEhwI0I)
+* [ ] [projects internship google](https://www.youtube.com/results?search_query=projects+internship+google)
+* [ ] [microsoft internship projects](https://www.youtube.com/results?search_query=microsoft+internship+projects)
+* [ ] [amazon internship projects](https://www.youtube.com/results?search_query=amazon+internship+projects)
+* [ ] [apple internship projects](https://www.youtube.com/results?search_query=apple+internship+projects)
+* [ ] [designer interships](https://www.youtube.com/results?search_query=designer+interships)
+
+
 
 ## References
 
