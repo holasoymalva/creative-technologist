@@ -20,7 +20,8 @@
 * [ ] [amazon internship projects](https://www.youtube.com/results?search_query=amazon+internship+projects)
 * [ ] [apple internship projects](https://www.youtube.com/results?search_query=apple+internship+projects)
 * [ ] [designer interships](https://www.youtube.com/results?search_query=designer+interships)
-
+* [ ] [ux design intern portfolio](https://www.youtube.com/results?search_query=ux+design+intern+portfolio+)
+* [ ] [ux design internship](https://www.youtube.com/results?search_query=ux+design+internship)
 
 
 ## References
