@@ -22,6 +22,7 @@
 * [ ] [designer interships](https://www.youtube.com/results?search_query=designer+interships)
 * [ ] [ux design intern portfolio](https://www.youtube.com/results?search_query=ux+design+intern+portfolio+)
 * [ ] [ux design internship](https://www.youtube.com/results?search_query=ux+design+internship)
+* [ ] [Open Source Program Microsoft](https://opensource.microsoft.com/program/)
 
 
 ## References
