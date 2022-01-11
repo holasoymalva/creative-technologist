@@ -1,5 +1,20 @@
 # creative-technologist
-Demos and practices of Tecnology, ART and Design
+
+> Demos and practices of Technology, ART and Design
+
+
+### To-do List:
+
+* [ ] [Create a Github Action to setup Node and React Enviroment](https://github.com/marketplace?category=&query=&type=actions&verification=)
+* [ ] NFT's
+  * [ ] [Turn Procreate Art Into NFT](https://youtu.be/lNwPe4s2h9E)
+  * [ ] [Así puedes CREAR tu CARD ANIMADO NFT sin saber ANIMAR](https://youtu.be/r9irf36ge3Q)
+  * [ ] [How I Draw NFTs - Artist Process Using Procreate + Figma](https://youtu.be/kzGya1F-SN0)
+  * [ ] [How to draw NFT's in Procreate - DRAW AND EXPORT](https://youtu.be/CQcMqe0k1Ig)
+  * [ ] [24 Horas Intentando Ganar Dinero Con NFTs](https://youtu.be/wgI1pbMJM1M)
+  * [ ] [Cómo CREAR un NFT (gratis) y ponerlo a la VENTA con REGALÍAS de por vida](https://youtu.be/HDQzPohVEj4)
+  * [ ] [Cómo hacer un NFT en 10 minutos ¡Tutorial fácil!](https://youtu.be/8X6mj8-mk34)
+  * [ ] [He Invertido $50.000 en NFT's (os lo explico)](https://youtu.be/sAdfmEhwI0I)
 
 ## References
 
